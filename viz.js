@@ -1,4 +1,4 @@
-s= Snap(800,800);
+s= Snap("#viz");
 
 function bar(x,y){
 box_w=600;
